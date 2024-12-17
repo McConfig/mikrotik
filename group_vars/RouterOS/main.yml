@@ -1,0 +1,5 @@
+---
+ansible_user: admin
+ansible_ssh_pass: !Grot13sW1
+ansible_connection: network_cli
+ansible_network_os: routeros
